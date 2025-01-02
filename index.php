@@ -8,7 +8,7 @@
 <?php 
 
 echo 'Hello';
-echo 'Hi';
+echo 'Sup';
 
 ?>
 <body>
